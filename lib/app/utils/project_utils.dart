@@ -17,10 +17,11 @@ List<ProjectUtils> projectUtils = [
   ProjectUtils(
     banners: 'assets/imgs/02.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
+    titles: 'Awesome POS App',
     description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
+        'This is a just Fully functional POS App by using Android, the link is also available, check below.',
+    links:
+        'https://play.google.com/store/apps/details?id=com.sumundi.keepsales.mobile.app',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
@@ -28,22 +29,24 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome CRM UI',
     description:
         'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/sudeshnb/',
+    links: 'https://github.com/ali-sampson/',
   ),
   ProjectUtils(
     banners: 'assets/imgs/03.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Exercise App',
+    titles: 'Monitor My Rehab',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+        'This is a just Fully function Physiotherapist App by using flutter, the link is also available, check below.',
+    links:
+        'https://play.google.com/store/apps/details?id=com.monitormyrehab.app.mobile',
   ),
   ProjectUtils(
     banners: 'assets/imgs/04.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
+    titles: 'Akwaaba - Educare',
     description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+        'This is a just HR Management App UI by using flutter, the link is also available, check below.',
+    links:
+        'https://play.google.com/store/apps/details?id=com.akwaaba.app.educare',
   ),
 ];

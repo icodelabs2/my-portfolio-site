@@ -8,7 +8,6 @@
 - [x] Works on all desktops, tablets and mobiles
 
 
-
 ### connect with me
  > Social Media Links ⚡    
 
